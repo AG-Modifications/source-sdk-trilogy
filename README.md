@@ -1,4 +1,3 @@
--->DESCRIPTION<--
 A fully working Half-Life: Source, Half-Life 2 + Episodes, ready to be modified and compiled!
 
 
